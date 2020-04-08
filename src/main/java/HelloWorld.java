@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World!");
 		System.out.println("Aleksander Kostylew, first git test!");
+		System.out.println("2nd commit into hello-edit branch!");
 	}
 
 }
